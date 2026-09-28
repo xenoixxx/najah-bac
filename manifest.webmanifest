@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Najah — BAC",
+  "short_name": "Najah",
+  "description": "Study plan, lessons, focus timer and oasis for Algerian BAC students.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B5D45",
+  "theme_color": "#0B5D45",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

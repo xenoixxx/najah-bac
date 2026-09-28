@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16825F"/><stop offset=".55" stop-color="#0B5D45"/><stop offset="1" stop-color="#05291F"/></linearGradient></defs>
-<rect width="512" height="512" rx="110" fill="url(#g)"/>
-<circle cx="330" cy="180" r="70" fill="#FFD166" opacity=".25"/><circle cx="330" cy="180" r="44" fill="#FFD166"/>
-<path d="M60 410 Q170 360 270 395 T460 380 V430 Q260 460 60 440Z" fill="#E6BA4C" opacity=".9"/>
-<g transform="translate(236 408) scale(4.2)"><path d="M0 0 C1 -20 4 -38 1 -58" stroke="#8B5A2B" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M1 -58 C-8 -70 -24 -68 -32 -56 C-22 -62 -10 -60 1 -58Z" fill="#2E8B57"/><path d="M1 -58 C10 -70 26 -68 34 -56 C24 -62 12 -60 1 -58Z" fill="#3CA36A"/><path d="M1 -58 C-6 -60 -20 -52 -26 -40 C-16 -50 -8 -54 1 -58Z" fill="#2E8B57"/><path d="M1 -58 C8 -60 22 -52 28 -40 C18 -50 10 -54 1 -58Z" fill="#3CA36A"/><path d="M1 -58 C-2 -68 4 -76 10 -78 C6 -72 4 -66 1 -58Z" fill="#46B477"/><circle cx="-2" cy="-54" r="2.5" fill="#C0622B"/><circle cx="3" cy="-53" r="2.5" fill="#D9772F"/></g></svg>

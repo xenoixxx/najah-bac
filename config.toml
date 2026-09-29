@@ -1,0 +1,5 @@
+# Webhooks are called by Chargily / PayPal (no user login); they verify signatures themselves.
+[functions.chargily-webhook]
+verify_jwt = false
+[functions.paypal-webhook]
+verify_jwt = false
